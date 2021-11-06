@@ -15,7 +15,7 @@ The assignment consists in the implementation of an SVM that classify one-dimens
 The provided dataset is made up of 1500 wav files in which three different subjects pronounce the numbers from 0 to 9. Each file contains the pronunciation of a single number, and each subject pronounces each number fifty times.
 
 ## 2. Image Compression
-[Image CompressionFolder](Assignment2-ImageCompression/)
+[Image Compression Folder](Assignment2-ImageCompression/)
 
 The assignment consists in experiment the compression of a color image by blurring the channels of the YCbCr representation. In order to understand the possible different types of compression is required to:
 1. Show the effect of blurring with a gaussian filter the chroma channels (Cb and Cr). Either individually or together
