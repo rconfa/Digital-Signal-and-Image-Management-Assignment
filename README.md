@@ -28,3 +28,11 @@ For each step show the impact of blurring with different intensities either on v
 [Image Stitching Folder](Assignment3-ImageStitching/)
 
 The assignment consists in experiment with image stitching of two images by using SIFT. In order to implement this assignment is not possible to use `createStitcher()` method of openCV library, however it is possible to use pre-made functions for the computation of the Homography and for image warping.
+
+## About me
+&#8860; &nbsp; **Riccardo Confalonieri**
+
+- *Enrolled in*: Master degree in Data Science at University of Milano-Bicocca.
+- *Previously enrolled in*: BSCS in Information and Communication Technologies at University of Milano-Bicocca.
+
+<a href='https://www.linkedin.com/in/riccardo-confalonieri-5250b0201/'> Linkedin </a>
