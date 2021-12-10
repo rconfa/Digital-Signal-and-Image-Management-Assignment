@@ -30,7 +30,7 @@ For each step show the impact of blurring with different intensities either on v
 The assignment consists in experiment with image stitching of two images by using SIFT. In order to implement this assignment is not possible to use `createStitcher()` method of openCV library, however it is possible to use pre-made functions for the computation of the Homography and for image warping.
 
 ## 4. Classification Neural Network
-[Classification Neural Network Folder](Assignment3-ClassificationNN/)
+[Classification Neural Network Folder](Assignment4-ClassificationNN/)
 
 The assignment requires to solve the classification task for both the MNIST and CIFAR10 datasets by implementing a convolutional neural network with the following layers: 
 1. Explicit input layer
