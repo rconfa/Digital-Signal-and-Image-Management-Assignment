@@ -42,6 +42,10 @@ The assignment requires to solve the classification task for both the MNIST and 
 7. ReLU
 8. Fully-connected mapping to the final problem size
 
+## 5. Fine Tuning and Data Augmentation
+[Fine Tuning Folder](Assignment5-FineTuning/)
+The assignment requires to solve the classification task for the 101-object dataset by implementing a fine tuning of a neural network. In addition the task requires not to use the mobileNet architecture and experiment with some data augmentation layers.
+
 
 
 ## About me
